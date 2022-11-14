@@ -9,7 +9,7 @@ MATLAB implementation to reproduce the results in the article `Enforcing symmetr
 
 * experiment.m
 
-Runs this script to reproduce the resulst reported in the Experiments section. The occurence of measurement noise can be toggled by setting NOISE_ON to either 0 or 1. 
+Runs this script to reproduce the resulst reported in the "Enforcing symmetry in tensor network MIMO Volterra identification" article. The occurence of measurement noise can be toggled by setting NOISE_ON to either 0 or 1. 
 
 * IncreasingD_experiment.m
 
