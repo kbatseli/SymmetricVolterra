@@ -11,6 +11,10 @@ MATLAB implementation to reproduce the results in the article `Enforcing symmetr
 
 Runs this script to reproduce the resulst reported in the Experiments section. The occurence of measurement noise can be toggled by setting NOISE_ON to either 0 or 1. 
 
+* IncreasingD_experiment.m
+
+Run this script to reproduce the result in the "A Khatri-Rao product tensor network for efficient symmetric MIMO Volterra identification" article.
+
 
 2. Reference
 ------------
